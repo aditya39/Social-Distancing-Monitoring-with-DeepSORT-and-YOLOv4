@@ -1,0 +1,2 @@
+Frame 584
+Average FPS 36.16

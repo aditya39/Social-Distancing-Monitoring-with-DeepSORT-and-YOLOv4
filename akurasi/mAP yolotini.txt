@@ -1,0 +1,16 @@
+ Last accuracy mAP@0.5 = 32.21 %, best = 33.82 % 
+ 6000: 0.985177, 0.940075 avg loss, 0.000026 rate, 0.741638 seconds, 384000 images, 0.028735 hours left
+
+ calculation mAP (mean average precision)...
+ Detection layer: 30 - type = 28 
+ Detection layer: 37 - type = 28 
+400
+ detections_count = 8403, unique_truth_count = 857  
+class_id = 0, name = person, ap = 32.30%   	 (TP = 414, FP = 717) 
+
+ for conf_thresh = 0.25, precision = 0.37, recall = 0.48, F1-score = 0.42 
+ for conf_thresh = 0.25, TP = 414, FP = 717, FN = 443, average IoU = 26.72 % 
+
+ IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+ mean average precision (mAP@0.50) = 0.323025, or 32.30 % 
+Total Detection Time: 10 Seconds

@@ -1,0 +1,40 @@
+	1000
+Detections_count = 12305, unique_truth_count = 857  
+class_id = 0, name = person, ap = 43.30%   	 (TP = 554, FP = 859) 
+for conf_thresh = 0.25, precision = 0.39, recall = 0.65, F1-score = 0.49 
+for conf_thresh = 0.25, TP = 554, FP = 859, FN = 303, average IoU = 28.71 % 
+IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+mean average precision (mAP@0.50) = 0.432957, or 43.30 % 
+
+	2000
+detections_count = 8268, unique_truth_count = 857  
+class_id = 0, name = person, ap = 43.34%   	 (TP = 607, FP = 879) 
+for conf_thresh = 0.25, precision = 0.41, recall = 0.71, F1-score = 0.52 
+for conf_thresh = 0.25, TP = 607, FP = 879, FN = 250, average IoU = 31.20 %  
+IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+mean average precision (mAP@0.50) = 0.433379, or 43.34 % 
+
+	3000
+detections_count = 7013, unique_truth_count = 857  
+class_id = 0, name = person, ap = 39.59%   	 (TP = 556, FP = 969) 
+for conf_thresh = 0.25, precision = 0.36, recall = 0.65, F1-score = 0.47 
+for conf_thresh = 0.25, TP = 556, FP = 969, FN = 301, average IoU = 28.14 % 
+IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+mean average precision (mAP@0.50) = 0.395883, or 39.59 %
+
+	5000
+detections_count = 4466, unique_truth_count = 857  
+class_id = 0, name = person, ap = 40.03%   	 (TP = 544, FP = 815) 
+for conf_thresh = 0.25, precision = 0.40, recall = 0.63, F1-score = 0.49 
+for conf_thresh = 0.25, TP = 544, FP = 815, FN = 313, average IoU = 31.40 % 
+IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+mean average precision (mAP@0.50) = 0.400342, or 40.03 %
+
+	6000
+detections_count = 4540, unique_truth_count = 857  
+class_id = 0, name = person, ap = 39.37%   	 (TP = 551, FP = 848) 
+for conf_thresh = 0.25, precision = 0.39, recall = 0.64, F1-score = 0.49 
+for conf_thresh = 0.25, TP = 551, FP = 848, FN = 306, average IoU = 30.93 % 
+IoU threshold = 50 %, used Area-Under-Curve for each unique Recall 
+mean average precision (mAP@0.50) = 0.393668, or 39.37 % 
+
